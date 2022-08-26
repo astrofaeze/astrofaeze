@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @astrofaeze
 - 👀 I’m interested in AI and programming
-- 🌱 I’m currently learning deep0 learning
+- 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on pyhton projects
 - 📫 How to reach me astrofaeze1998@gmail.com  or  0989221400328
 
